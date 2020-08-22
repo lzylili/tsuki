@@ -4017,7 +4017,7 @@ a[class^='text-link-']:hover, a[class^='text-link-']:focus, a[class*=' text-link
 }
 
 .header.absolute-dark:not(.sticky-autohide):not(.sticky), .header.absolute-light:not(.sticky-autohide):not(.sticky), .header.absolute-dark.dark:not(.sticky-autohide):not(.sticky), .header.absolute-light.dark:not(.sticky-autohide):not(.sticky), .header.absolute-dark.black:not(.sticky-autohide):not(.sticky), .header.absolute-light.black:not(.sticky-autohide):not(.sticky) {
-  position: absolute;
+  position: sticky;
   top: 0;
   left: 0;
 }
