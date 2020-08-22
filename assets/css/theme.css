@@ -3821,6 +3821,7 @@ a[class^='text-link-']:hover, a[class^='text-link-']:focus, a[class*=' text-link
   display: flex;
   align-items: center;
   height: 100%;
+  background: rgba(255, 255, 255, 0.5)
 }
 
 .header .header-logo {
