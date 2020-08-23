@@ -44,7 +44,7 @@ jQuery( document ).ready(function( $ ) {
 		request.fail(function (jqXHR, textStatus, errorThrown){
 			// log the error to the console
 			console.error(
-				"we are having issues recieving your order. Please retry or contact us."
+				"We are having issues receiving your order. Please retry or contact us."
 			);
 		});
 
@@ -107,7 +107,7 @@ jQuery( document ).ready(function( $ ) {
 		request.fail(function (jqXHR, textStatus, errorThrown){
 			// log the error to the console
 			console.error(
-				"we are having issues recieving your order. Please retry or contact us via our socials."
+				"We are having issues receiving your order. Please retry or contact us via our socials."
 			);
 		});
 
