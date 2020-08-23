@@ -27,7 +27,7 @@ jQuery( document ).ready(function( $ ) {
 		// fire off the request to /form.php
 		request = $.ajax({
 			// url: // works
-      url: "https://script.google.com/macros/s/AKfycbx3vWW9EspQnVrv7eK8u6daV5ewCoWyKeMLwJ9u/exec",  // clone
+      url: "https://script.google.com/macros/s/AKfycbzlUgcaa9dbjAyhsGOMtmsXoVLxxHtDrfjGG3YsSKVe9RQczMhO/exec",  // clone
 			type: "post",
 			data: serializedData
 		});
