@@ -90,7 +90,7 @@ jQuery( document ).ready(function( $ ) {
 		// fire off the request to /form.php
 		request = $.ajax({
 			// url: // works
-      url: "https://script.google.com/macros/s/AKfycbxmqKqn6HGIQupBpyOF0wS_FQ9IqdDN2563lAIgRE31lq0UYcuC/exec",  // clone
+      url: "https://script.google.com/macros/s/AKfycbw678hnLqzqH6ptSkgswR7Quf5S-34cUbxdnCNY/exec",  // clone
 			type: "post",
 			data: serializedData
 		});
